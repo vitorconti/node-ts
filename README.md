@@ -37,13 +37,13 @@ This repository serves as a basic setup for a Node.js project using TypeScript f
 4. For running the production code
 
 ```bash
-   npm start
+  npm start
 ```
 
-4. For running the tests
+5. For running the tests
 
 ```bash
-   npm test
+  npm test
 ```
 
 ## Project Structure
