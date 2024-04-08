@@ -48,10 +48,10 @@ This repository serves as a basic setup for a Node.js project using TypeScript f
 
 ## Project Structure
 
--src/: Contains the source code of your application.
--src/server/index.ts: Entry point of your application.
--tsconfig.json: TypeScript configuration file.
--package.json: Metadata about the project and its dependencies.
+- src/: Contains the source code of your application.
+- src/server/index.ts: Entry point of your application.
+- tsconfig.json: TypeScript configuration file.
+- package.json: Metadata about the project and its dependencies.
 
 ## License
 
